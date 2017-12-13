@@ -12,3 +12,10 @@ I started the project doing two trackers on both elbows and realised after doing
 
 ## User Stories
 
+* As a developer I want upper body tracking
+* As a player I want Enemies
+* As a player I want Score
+* As a player I want Different gameplay
+* As a player I want to be in control of my actions
+* As a player I want audio
+* As a player I want to be immersed
